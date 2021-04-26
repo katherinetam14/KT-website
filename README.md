@@ -1,2 +1,2 @@
-# KT-website
+# kt-website
 Katherine Tam's website
