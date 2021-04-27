@@ -1,2 +1,2 @@
 # kt-website
-Katherine Tam's website
+Contains files for Katherine Tam's personal website on Google Sites. 
